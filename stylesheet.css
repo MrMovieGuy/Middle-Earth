@@ -1,0 +1,67 @@
+header {
+	text-align: left;
+	background-color: #235104;
+	padding: 20px;
+}
+
+body{
+	background-color: #f95f06;
+	background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/7-places-in-middle-earth-to-explore-next-after-gollum-and-return-to-moria.jpg);
+	background-size: cover;
+	margin: 20px;
+}
+
+
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	background-color: #7ba513;
+}
+
+nav ul li {
+	margin: 14px;
+}
+
+nav ul li a {
+	color: brown;
+	font-style: oblique;
+}
+
+h1 {
+	color: gold;
+	font-family: Papyrus, "Elephant", serif;
+	font-size: 53px;
+    text-align: center;
+}
+
+h2{
+ color: #d38200;
+ font-family: Tahoma, Geneva, sans-serif;
+ font-size: 34px;
+}
+
+h3{
+	color: #f07c1e;
+	font-size: 27px;
+}
+
+h4{
+   color: #d95909;
+   font-size: 21px;
+}
+
+p{
+  color: #ffffff;
+}
+
+h11{
+	color: #db8578;
+	font-size: 14px;
+}
+
+h12{
+	color: #eadede;
+	font-size: 10px;
+}
