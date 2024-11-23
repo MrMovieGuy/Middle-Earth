@@ -1,17 +1,14 @@
 header {
 	text-align: left;
 	background-color: #235104;
-	padding: 20px;
+	padding: 18px;
 }
 
 body{
-	background-color: #f95f06;
 	background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/7-places-in-middle-earth-to-explore-next-after-gollum-and-return-to-moria.jpg);
 	background-size: cover;
 	margin: 20px;
 }
-
-
 
 nav ul {
 	display: flex;
@@ -21,44 +18,66 @@ nav ul {
 }
 
 nav ul li {
-	margin: 14px;
+	margin: 17px;
 }
 
 nav ul li a {
+	display: block;
 	color: brown;
-	font-style: oblique;
+	font-family: "Helvetica", sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li a:hover {
+  color: black;
 }
 
 h1 {
 	color: gold;
 	font-family: Papyrus, "Elephant", serif;
-	font-size: 53px;
-    text-align: center;
+	font-size: 55px;
+  text-align: center;
 }
 
 h2{
- color: #d38200;
- font-family: Tahoma, Geneva, sans-serif;
- font-size: 34px;
+ color: darkred;
+ font-family: "Lucida Handwriting", cursive;
+ font-size: 39px;
 }
 
-h3{
-	color: #f07c1e;
-	font-size: 27px;
+h3.news {
+	color: #1c5eff;
+	font-size: 31px;
+	font-family: "Arial", sans-serif;
 }
+
+section {
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
 
 h4{
    color: #d95909;
    font-size: 21px;
+   font-family: "Arial", sans-serif;
 }
 
 p{
-  color: #ffffff;
+  color: black;
+  font-family: "Arial", sans-serif;
 }
 
 h11{
 	color: #db8578;
 	font-size: 14px;
+	font-family: "Arial", sans-serif;
 }
 
 h12{

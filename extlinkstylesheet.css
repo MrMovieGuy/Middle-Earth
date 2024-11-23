@@ -1,0 +1,59 @@
+body {
+	background-image: url(https://wallpapersok.com/images/hd/most-popular-lord-of-the-rings-wallpaper-hd-full-hd-1080p-for-pc-ounay2yrqki9sz9k.jpg);
+	background-size: cover;
+}
+
+h1 {
+	color: darkblue;
+	font-family: "Georgia", serif;
+	font-weight: bolder;
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	background-color: #7ba513;
+}
+
+nav ul li {
+	margin: 17px;
+}
+
+nav ul li a {
+	display: block;
+	color: brown;
+	font-family: "Helvetica", sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li a:hover {
+  color: black;
+}
+
+p {
+	font-family: "Arial", sans-serif;
+	color: darkgreen;
+}
+
+p:hover {
+	opacity: 0.5;
+	color: limegreen;
+}
+
+h12 {
+	color: red;
+	font-size: 10px;
+}
+
+section {
+	background-color: white;
+	opacity: 0.75;
+}

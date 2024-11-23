@@ -1,0 +1,286 @@
+body {
+	background-image: url(https://img.goodfon.com/original/1920x1080/1/e0/gory-khobbit-pustosh-smauga-minimalizm.jpg);
+	background-size: cover;
+}
+
+header {
+	background-color: #7ba513;
+	margin: 10px;
+	padding: 2px;
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	background-color: #7ba513;
+}
+
+nav ul li {
+	margin: 17px;
+}
+
+nav ul li a {
+	display: block;
+	color: brown;
+	font-family: "Helvetica", sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li a:hover {
+  color: black;
+}
+
+h1 {
+	color: red;
+	font-family: "Helvetica", sans-serif;
+	font-size: 42px;
+	text-align: left;
+}
+
+h2 {
+	text-align: center;
+	color: #dcc00a;
+	font-family: "Georgia", serif;
+	font-size: 39px;
+}
+
+section {
+	background-image: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg);
+	align-content: center;
+	background-size: cover;
+}
+
+p.plot {
+	text-align: center;
+	color: #f33a3a;
+	font-family: "Papyrus", sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+h3.Fellowship {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: darkgreen;
+}
+
+h3.Towers {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #b01616;
+}
+
+h3.King {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #0737c4;
+}
+
+p {
+	color: white;
+	font-family: "Arial", sans-serif;
+}
+
+
+
+button.fellowship, button.HobbitAnimated {
+	background-color: #04AA6d;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+button.TwoTowers, button.LOTRAnimated {
+	background-color: red;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+button.Return, button.Power {
+	background-color: darkblue;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+}
+
+button:hover {
+	opacity: 2;
+}
+
+button.fellowship:hover, button.HobbitAnimated:hover {
+	opacity: 28;
+	background-color: darkgreen;
+}
+
+button.TwoTowers:hover, button.LOTRAnimated:hover {
+	opacity: 28;
+	background-color: darkred;
+}
+
+button.Return:hover, button.Power:hover {
+	opacity: 28;
+	background-color: blue;
+}
+
+a {
+	text-decoration: none;
+	font-family: "Arial", sans-serif;
+	color: white;
+}
+
+a.trailer {
+	color: black;
+}
+
+img.link:hover {
+	opacity: 0.5;
+}
+
+h12{
+	color: #eadede;
+	font-size: 10px;
+}
+
+section.second {
+	background-image: url(https://static.vecteezy.com/system/resources/previews/024/570/716/large_2x/old-paper-texture-for-the-design-natural-background-toned-abstract-old-brown-paper-as-vintage-wallpaper-backdrop-ai-generated-free-photo.jpg);
+	align-content: center;
+}
+
+h3.Journey {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #d0be13;
+}
+
+h3.Smaug {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #04be55;
+}
+
+h3.Battle {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #000000;
+}
+
+h3.TVshow {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #0737c4;
+}
+
+h3.AniLOTR {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: #b01616;
+}
+
+h3.AniHobbit {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: darkgreen;
+}
+
+h3.War {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: white;
+}
+
+h3.Gollum {
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	font-size: #35px;
+	color: grey;
+}
+
+button.journey {
+	background-color: #e6eb00;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+button.journey:hover {
+	opacity: 28;
+	background-color: #afae0a;
+}
+
+button.smaug {
+	background-color: #23df94;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+button.smaug:hover {
+	opacity: 28;
+	background-color: #008751;
+}
+
+button.battle {
+  background-color: black;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+button.battle:hover {
+  opacity: 28;
+	background-color: #434343;
+}
+
+td.TBA {
+	text-align: center;
+}
