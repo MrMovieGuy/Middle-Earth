@@ -1,0 +1,129 @@
+body {
+	background-image: url(https://wallpapercat.com/w/full/a/2/9/565414-1920x1080-desktop-1080p-the-fellowship-of-the-ring-wallpaper.jpg);
+	background-size: cover; /*code adapted from (Liang, 2020)*/
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	background-color: #7ba513;
+}
+
+nav ul li {
+	margin: 17px;
+}
+
+nav ul li a {
+	display: block;
+	color: brown;
+	font-family: "Helvetica", sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li a:hover {
+  color: black;
+}
+
+h1.bold {
+	color: #c8a47b;
+	text-align: center;
+	font-family: "Georgia", serif;
+	font-size: 60px;
+	font-weight: bolder;
+}
+
+h3.Frodo {
+	color: #c79a99;
+	font-family: "Verdana", sans-serif;
+}
+
+p {
+	color: black;
+	font-family: "Arial", sans-serif;
+}
+
+h3.Sam {
+	color: #ffd230;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Gandalf {
+	color: #4a6f73;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Gollum {
+	color: #735e59;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Bilbo {
+	color: #964d4d;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Aragorn {
+	color: #0065bb;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Elrond {
+	color: #8f0d0d;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Saruman {
+	color: skyblue;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Smaug {
+	color: purple;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Pippin {
+	color: orange;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Merry {
+	color: darkgreen;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Galadriel {
+	color: #0c6980;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Arwen{
+	color: #00de64;
+	font-family: "Verdana", sans-serif;
+}
+
+h3.Legolas {
+	color: #6b6b6b;
+	font-family: "Verdana", sans-serif;
+}
+
+td, th {
+	text-align: center;
+}
+
+h12 {
+	color: #dad7bd;
+	font-size: 10px;
+}
+
+section {
+	background-color: rgba(255, 255, 255, 0.7); /* code adapted from (MischkaTheBear, 2022)*/ 
+}

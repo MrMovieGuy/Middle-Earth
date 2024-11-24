@@ -1,0 +1,97 @@
+body {
+	background-image: url(https://images4.alphacoders.com/135/thumb-1920-1358247.jpeg);
+	background-size: cover; /*code adapted from (Liang, 2020)*/
+}
+
+h1 {
+	font-family: "Lucida Handwriting", cursive;
+	font-size: 45px;
+	color: #6e552f;
+	font-weight: bolder;
+}
+
+nav ul {
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	background-color: #7ba513;
+}
+
+nav ul li {
+	margin: 17px;
+}
+
+nav ul li a {
+	display: block;
+	color: brown;
+	font-family: "Helvetica", sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.active {
+	color: yellow;
+	text-decoration: underline;
+}
+
+li a:hover {
+  color: black;
+}
+
+h3.Shire {
+    color: #29741d;
+    font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h3.Mordor, h3.Mirkwood {
+	color: #502d22;
+	font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h3.Minas {
+	color: #88838a;
+	font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h3.Erebor {
+	color: darkblue;
+	font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+h3.Rivendall {
+	color: orange;
+	font-family: "Papyrus", fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+
+
+p {
+	color: black;
+	font-family: "Arial", sans-serif;
+	text-align: center;
+}
+
+h12 {
+	color: #eadede;
+	font-size: 10px;
+}
+
+section {
+	background-color: rgba(255, 255, 255, 0.7); /* code adapted from (MischkaTheBear, 2022)*/ 
+}
