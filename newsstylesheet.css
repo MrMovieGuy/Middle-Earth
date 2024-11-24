@@ -57,11 +57,15 @@ section {
 }
 
 
-h11 {
+h5 {
 	margin: 3px;
 	color: darkblue;
 	font-size: 13.5px;
 	font-family: Arial, sans-serif;
+}
+
+h6 {
+	font-size: 10px;
 }
 
 h12 {
